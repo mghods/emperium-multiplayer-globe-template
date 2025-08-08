@@ -91,7 +91,7 @@ function App() {
   return (
     <div className="App">
       <h1>EMPERIUM AI</h1>
-      <h2>Being populated</h2>
+      <h2>being built ...</h2>
       {counter !== 0 ? (
         <p>
           <b>{counter}</b> {counter === 1 ? "person" : "people"} connected.
